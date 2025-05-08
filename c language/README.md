@@ -24,11 +24,11 @@
 5.Develop a C program that uses structures to represent a book (with attributes like title, author, and price). List N number of books' details using Array of objects.
 
 
-![alt text](./image/5.png)
+![alt text](./image/Q5.png)
 
 6.Write a C program that writes any 3 employees' name along with their role(designation) in a file called data.txt by taking input from user dynamically.
 
-![alt text](./image/6.png)
+![alt text](./image/Q6.png)
 
 
 7.Print a below pattern using nested for loop in C language:
